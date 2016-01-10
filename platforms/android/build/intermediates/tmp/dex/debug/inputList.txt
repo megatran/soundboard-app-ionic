@@ -1,0 +1,2 @@
+C:\Users\megatran\OneDrive\SelfLearning\ionic\github.com\megatran\soundboard-app-ionic\platforms\android\build\intermediates\classes\debug
+C:\Users\megatran\OneDrive\SelfLearning\ionic\github.com\megatran\soundboard-app-ionic\platforms\android\build\intermediates\pre-dexed\debug\classes-c295eaa67facbfec4a445a0832aa7498f4a37a08.jar
